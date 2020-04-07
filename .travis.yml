@@ -14,6 +14,7 @@ script:
   - yarn build
 
 notifications:
+  slack: fersesystem:LVTfJkzZDCSpslaWO1QRzlal
   email:
     recipients:
       - me.fernandezserrano@gmail.com
